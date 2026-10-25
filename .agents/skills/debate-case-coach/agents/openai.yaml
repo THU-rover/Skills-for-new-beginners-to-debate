@@ -1,0 +1,4 @@
+interface:
+  display_name: "出论"
+  short_description: "陪新生逐步破题、比较路线、处理质疑，将个人思考组织成全队可核验的辩论主案"
+  default_prompt: "使用 $debate-case-coach 按《出论》八步流程带我备赛，先判断当前进度，再陪我完成下一项任务。"
